@@ -68,46 +68,51 @@ Steps:
 
 3. Select the project folder:
 
-        YouTube_Video_Downloader
-## 4.Click Open
+       YouTube_Video_Downloader
+4. Click Open
+ 
 You can also open the project using terminal:
 
-cd YouTube_Video_Downloader
-3. Create Virtual Environment
+        cd YouTube_Video_Downloader
+## 3. Create Virtual Environment
 Create a virtual environment for the project:
 
-python -m venv venv
-4. Activate Virtual Environment
+        python -m venv venv
+## 4. Activate Virtual Environment
 For Windows:
 
-venv\Scripts\activate
+    venv\Scripts\activate
 After activation, you will see:
 
-(venv)
+    (venv)
 in the terminal.
 
-5. Install Required Libraries
+## 5. Install Required Libraries
 Install all project dependencies:
 
-pip install -r requirements.txt
-6. Run the Application
+    pip install -r requirements.txt
+## 6. Run the Application
 Start the YouTube Video Downloader:
 
-python main.py
+    python main.py
 ## 🖥️ How to Use
-Open the application
+1. Open the application
 
-Enter the YouTube video URL
+2. Enter the YouTube video URL
 
-Click the Download Video button
+3. Click the Download Video button
 
-Select the folder where you want to save the video
+4. Select the folder where you want to save the video
 
-Wait until the download is completed
+5. Wait until the download is completed
 
 ## 📦 Requirements
 Before running the project, make sure you have the following installed:
 
-Software Requirements
-Python 3.x
-Visual Studio Code
+## Software Requirements
+* Python 3.x
+* Visual Studio Code
+## Python Libraries
+* pytubefix
+## 📸 Application Preview
+## YouTube Video Downloader Interface
