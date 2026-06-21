@@ -1,3 +1,4 @@
+# Intern Id: CITS2082
 # YouTube-Video-Downloader
 ## 🎬 YouTube Video Downloader
 A Python-based YouTube Video Downloader application with a simple graphical user interface (GUI).
@@ -126,21 +127,22 @@ Before running the project, make sure you have the following installed:
 * Add playlist downloader
 * Improve user interface design
 ## 👩‍💻 Author
-
+Karavandla Varun kumar
 
 Python Developer | Software Development Enthusiast
 
 GitHub Profile:
-https://github.com/madayashasree05
+https://github.com/karavandlavarun-ship-it
 
-🤝 Support
+## 🤝 Support
 If you like this project, consider giving it a ⭐ on GitHub.
 
 For any issues, suggestions, or improvements:
 
-Open an issue in the GitHub repository
-Share your feedback to help improve the project
+* Open an issue in the GitHub repository
+* Share your feedback to help improve the project
+  
 Thank you for visiting this project! 🚀
 
-📄 License
+## 📄 License
 This project is created for educational purposes
